@@ -1,0 +1,11 @@
+sets and dict both are made from curly brackets {}
+
+
+sets
+ (hr value ko bss ek baar hee lega)
+ (1,2,3,,55,55,)
+// output (1,2,3,55)
+
+
+length in sbme kaam krta hee 
+list ,tuple dic , sets
